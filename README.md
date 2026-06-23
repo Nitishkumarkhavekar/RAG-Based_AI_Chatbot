@@ -273,3 +273,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py --server.port=8501 --server.address=0.0.0.0
 ```
+## 🖼️ User Interface Preview
+
+Below is the design layout of the interactive Streamlit user workspace and real-time conversational panel:
+
+![RAG Chatbot Preview](Rag_SS.png)
